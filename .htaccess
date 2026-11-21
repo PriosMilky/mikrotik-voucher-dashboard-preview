@@ -1,0 +1,2 @@
+# Deny direct web access to project root. Configure Apache DocumentRoot to /public.
+Require all denied
